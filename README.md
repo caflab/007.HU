@@ -1,2 +1,2 @@
 # 007.HU
-The management of Hu
+The management of Hu.
